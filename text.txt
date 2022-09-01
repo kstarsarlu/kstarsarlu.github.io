@@ -1,0 +1,4608 @@
+Html code
+
+<head>
+    <title>K STAR SARLU</title>
+</head> 
+<titel #A52A2A>
+
+
+  
+
+<body style="background-color:  #B5B1B1  ;">
+<p> <b></b></p>
+  <body>
+
+<h1 style="background-color: #67F2F2 ;" id="demo" onclick="myFunction()">K STAR SARLU </h1>
+    
+
+<h2 style="background-color: #8BEDED ">EXCAVATOR UPDATE</h2>
+
+
+
+‭<div id="list-example" class="list-group">‬
+‭  <button><a class="button" class="list-group-item list-group-item-action" href="#list-item-1">ACCOUNT BOOK</a></button>‬
+‭ <button > <a class="button"class="list-group-item list-group-item-action" href="#list-item-2">MACHIN REPAIR</a></button>‬‬
+    <h1>></h1>
+‭<button>  <a class="button" class="list-group-item list-group-item-action" href="#list-item-3">KEVIN</a>‬</button>‬
+ <button> <a class="button" class="list-group-item list-group-item-action" href="#list-item-4">BAPU</a>‬</button>‬
+<button><a class="button" class="list-group-item list-group-item-action" href="#list-item-5">BHARAT</a>‬</button>‬
+<h1> ></h1>
+‭ <button> <a class="button" class="list-group-item list-group-item-action" href="#list-item-6">XCMG(0308)</a>‬</button>‬
+ <button> <a  class="button" class="list-group-item list-group-item-action" href="#list-item-7">XCMG(0309)</a>‬</button>‬
+<button><a  class="button" class="list-group-item list-group-item-action" href="#list-item-8">XCMG(0096)</a>‬</button>‬
+ <button> <a class="button" class="list-group-item list-group-item-action" href="#list-item-9">XCMG(9227)</a>‬</button>‬
+ <button> <a class="button" class="list-group-item list-group-item-action" href="#list-item-10">LIV GONG</a>‬</button>‬
+    <h1 style="background-color:  #67F2F2  ;" id="demo" onclick="myFunction()">K STAR SARLU</h1>
+<h2 style="background-color: #8BEDED ">EXCAVATOR UPDATE</h2>
+
+‭</div>‬
+‭<div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-offset="0" class="scrollspy-example" tabindex="0">‬
+‭  <h2 id="list-item-1">ACCOUNT BOOK</h2>‬
+‭  <p>   <body>
+      <table border = "1">
+         <tr>
+            <td>_____DATE_____</td>
+            <td>__PARTCULAR__</td>
+           <td>_____CRDIT____</td>
+           <td>_____DEBIT_____</td>
+           <td>____BALANCE____</td>
+         </tr>
+         
+         <tr>
+            <td>____10/8/2022___</td>
+            <td>Row</td>
+             <td>
+        
+            </td>
+        
+             <td>
+        
+            </td>
+          <td>
+        
+            </td>
+          </tr>
+        
+         </tr>
+        <tr>
+          <td>
+            ____11/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+             </tr>
+        <td>
+            ____12/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+       <tr>
+         <td>
+            ____13/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+         </tr>
+        <tr><td>
+            ____14/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____15/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____16/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____17/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____18/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____19/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+       <tr>
+          <td>
+            ____20/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____21/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____22/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____23/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____24/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____25/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+         <tr>
+          <td>
+            ____26/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____27/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____28/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____29/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____30/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____31/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ------------------------
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        
+        <tr>
+          <td>
+            ____1/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____2/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____3/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____4/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____5/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____6/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____7/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____8/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____9/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____10/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____11/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____12/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____13/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____14/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____14/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____15/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____16/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____17/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____18/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____19/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____20/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____21/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____22/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____23/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____24/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____25/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____26/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____27/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____28/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____29/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____30/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            -------------------------
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____1/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____2/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____3/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____4/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____5/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____6/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____7/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____8/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____9/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____10/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____11/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____12/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____13/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____14/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____15/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____16/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____17/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____18/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____19/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____20/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        
+        <tr>
+          <td>
+            ____21/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____22/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____23/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____24/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____25/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____26/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____27/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____28/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____29/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____30/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____31/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        
+       
+      </table>
+      
+   </body></p><html>
+
+        
+      
+
+ 
+    
+      
+
+      <h2 id="list-item-2">MACHIN REPARI</h2>‬
+‭  <p></p>‬
+
+
+‭  <h4 id="list-item-3">KEVIN
+        </h4>‬<p>   <body>
+      <table border = "1">
+         <tr>
+            <td>_____DATE_____</td>
+            <td>__PARTCULAR__</td>
+           <td>_____CRDIT____</td>
+           <td>_____DEBIT_____</td>
+           <td>____BALANCE____</td>
+         </tr>
+         
+         <tr>
+            <td>____10/8/2022___</td>
+            <td>Row</td>
+             <td>
+        
+            </td>
+        
+             <td>
+        
+            </td>
+          <td>
+        
+            </td>
+          </tr>
+        
+         </tr>
+        <tr>
+          <td>
+            ____11/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+             </tr>
+        <td>
+            ____12/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+       <tr>
+         <td>
+            ____13/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+         </tr>
+        <tr><td>
+            ____14/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____15/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____16/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____17/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____18/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____19/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+       <tr>
+          <td>
+            ____20/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____21/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____22/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____23/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____24/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____25/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+         <tr>
+          <td>
+            ____26/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____27/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____28/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____29/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____30/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____31/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ------------------------
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        
+        <tr>
+          <td>
+            ____1/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____2/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____3/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____4/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____5/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____6/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____7/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____8/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____9/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____10/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____11/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____12/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____13/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____14/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____14/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____15/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____16/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____17/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____18/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____19/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____20/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____21/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____22/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____23/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____24/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____25/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____26/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____27/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____28/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____29/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____30/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            -------------------------
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____1/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____2/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____3/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____4/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____5/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____6/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____7/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____8/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____9/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____10/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____11/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____12/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____13/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____14/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____15/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____16/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____17/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____18/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____19/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____20/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        
+        <tr>
+          <td>
+            ____21/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____22/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____23/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____24/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____25/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____26/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____27/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____28/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____29/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____30/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____31/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        
+       
+      </table>
+      
+   </body></p><h2 id="list-item-4">BAPU</h2>‬ 
+‭  <p>   <body>
+      <table border = "1">
+         <tr>
+            <td>_____DATE_____</td>
+            <td>__PARTCULAR__</td>
+           <td>_____CRDIT____</td>
+           <td>_____DEBIT_____</td>
+           <td>____BALANCE____</td>
+         </tr>
+         
+         <tr>
+            <td>____10/8/2022___</td>
+            <td>Row</td>
+             <td>
+        
+            </td>
+        
+             <td>
+        
+            </td>
+          <td>
+        
+            </td>
+          </tr>
+        
+         </tr>
+        <tr>
+          <td>
+            ____11/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+             </tr>
+        <td>
+            ____12/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+       <tr>
+         <td>
+            ____13/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+         </tr>
+        <tr><td>
+            ____14/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____15/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____16/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____17/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____18/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____19/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+       <tr>
+          <td>
+            ____20/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____21/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____22/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____23/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____24/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____25/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+         <tr>
+          <td>
+            ____26/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____27/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____28/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____29/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____30/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____31/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ------------------------
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        
+        <tr>
+          <td>
+            ____1/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____2/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____3/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____4/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____5/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____6/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____7/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____8/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____9/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____10/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____11/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____12/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____13/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____14/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____14/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____15/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____16/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____17/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____18/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____19/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____20/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____21/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____22/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____23/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____24/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____25/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____26/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____27/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____28/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____29/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____30/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            -------------------------
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____1/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____2/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____3/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____4/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____5/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____6/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____7/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____8/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____9/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____10/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____11/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____12/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____13/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____14/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____15/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____16/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____17/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____18/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____19/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____20/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        
+        <tr>
+          <td>
+            ____21/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____22/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____23/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____24/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____25/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____26/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____27/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____28/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____29/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____30/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____31/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        
+       
+      </table>
+      
+   </body></p>‬
+‭  <p></p>‬
+‭  <h4 id="list-item-5">BHARAT</h4>‬
+‭  <p>   <body>
+      <table border = "1">
+         <tr>
+            <td>_____DATE_____</td>
+            <td>__PARTCULAR__</td>
+           <td>_____CRDIT____</td>
+           <td>_____DEBIT_____</td>
+           <td>____BALANCE____</td>
+         </tr>
+         
+         <tr>
+            <td>____10/8/2022___</td>
+            <td>Row</td>
+             <td>
+        
+            </td>
+        
+             <td>
+        
+            </td>
+          <td>
+        
+            </td>
+          </tr>
+        
+         </tr>
+        <tr>
+          <td>
+            ____11/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+             </tr>
+        <td>
+            ____12/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+       <tr>
+         <td>
+            ____13/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+         </tr>
+        <tr><td>
+            ____14/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____15/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____16/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____17/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____18/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____19/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+       <tr>
+          <td>
+            ____20/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____21/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____22/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____23/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____24/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____25/8/2022____
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+         <tr>
+          <td>
+            ____26/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____27/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____28/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____29/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____30/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____31/8/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ------------------------
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        
+        <tr>
+          <td>
+            ____1/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____2/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____3/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____4/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____5/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____6/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____7/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____8/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____9/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____10/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____11/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____12/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____13/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____14/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____14/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____15/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____16/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____17/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____18/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____19/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____20/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____21/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____22/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____23/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____24/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____25/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____26/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____27/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____28/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____29/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____30/9/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            -------------------------
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+          <tr>
+          <td>
+            ____1/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____2/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____3/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____4/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____5/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____6/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____7/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____8/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____9/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____10/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____11/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____12/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____13/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____14/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____15/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____16/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____17/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____18/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____19/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____20/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        
+        <tr>
+          <td>
+            ____21/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____22/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____23/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____24/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____25/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____26/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____27/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____28/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____29/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____30/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        <tr>
+          <td>
+            ____31/10/2022____
+            </td><td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>   <td>
+        
+            </td>
+          </tr>
+        
+       
+      </table>
+      
+   </body></p>‬
+        <h4 id="list-item-6">XCMG(0308)</h4>‬
+‭  <p></p>‬
+        <h4 id="list-item-7">XCMG(0309)</h4>‬
+‭  <p></p>‬
+        <h4 id="list-item-8">XCMG(0096)</h4>‬
+‭  <p></p>‬
+        <h4 id="list-item-9">XCMG(9227)</h4>‬
+‭  <p></p>‬
+        <h4 id="list-item-10">LIV GONG</h4>‬
+‭  <p></p>‬
+        
+        
+‭</div>‬ 
