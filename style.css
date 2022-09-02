@@ -1,0 +1,223 @@
+body {
+	background-image: url(kevin.png);
+
+	background-repeat: no-repeat;
+	background-size:1400px 720px 
+	 ;
+;
+	
+	max-width: 5500px ;
+	height: auto;
+
+}
+
+.logo1{
+      
+      width: 190px;
+      margin: -175px 3px;
+
+
+}
+                  
+
+
+
+
+
+
+
+
+.b1 {
+	margin-right: 50px ;
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 10px;
+    font-weight: 5000;
+    border-radius: 9px;
+    padding: 10px 24px ;
+    border: 2ppx;
+    margin-bottom: 8PX;
+    
+
+}
+
+.b2  {
+	margin-right: 50px ;
+	display: inline-block;
+    outline: 1PX;
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 10px;
+    font-weight: 5000;
+    border-radius: 9px;
+    padding: 10px 24px ;
+    border: 2ppx;
+    margin-bottom: 80px;
+
+
+}
+
+.b3  {
+      background-color: whitesmoke;
+	margin-right: 50px ;
+      display: inline-block;
+      outline: none;
+      cursor: pointer;
+      font-size: 20px;
+      line-height: 15px;
+      font-weight: 500;
+      border-radius: 9px;
+      padding: 10px 24px ;
+      border: 2ppx;
+   opacity: 1;
+   margin-bottom: 8PX;
+}
+.b4  {
+	margin-right: 50px ;
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 10px;
+    font-weight: 500;
+    border-radius: 9px;
+    padding: 10px 24px ;
+    border: 2ppx;
+    margin-bottom: 8PX;
+
+}
+
+
+.b5  {
+	margin-right: 50px ;
+	display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 10px;
+    font-weight: 500;
+    border-radius: 9px;
+    padding: 10px 24px ;
+    border: 2ppx;
+    margin-bottom: 20px;
+
+}
+
+.b6  {
+	margin-right: 50px ;
+	display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 10px;
+    font-weight: 500;
+    border-radius: 9px;
+    padding: 10px 24px ;
+    border: 2ppx;
+    margin-bottom: 8PX;
+
+}
+
+.b7  {
+	margin-right: 50px ;
+	display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 10px;
+    font-weight: 500;
+    border-radius: 9px;
+   padding: 10px 24px ;
+    border: 2ppx;
+    margin-bottom: 8PX;
+
+
+}
+
+
+.b8  {
+	margin-right: 50px ;
+	display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 10px;
+    font-weight: 500;
+    border-radius: 9px;
+   padding: 10px 24px ;
+    border: 2ppx;
+    margin-bottom: 8PX;
+
+ 
+}
+
+
+.b9 {	margin-right: 50px ;
+	display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 10px;
+    font-weight: 500;
+    border-radius: 9px;
+    padding: 10px 24px ;
+    border: 2ppx;
+     margin-bottom: 8PX;
+
+}
+
+.b10  {
+	margin-right: 100px ;
+	display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 10px;
+    font-weight: 500;
+    border-radius: 9px;
+    padding: 10px 24px ;
+    border: 2ppx;
+   margin-bottom: 280PX;
+
+
+
+    
+}
+.EXCAVATERUPDATE{
+      background-color: whitesmoke;
+      font-size: 50px;
+       width: 1300px;
+      margin: 70px 17px;
+      border-radius: 22px;
+
+}
+.SPAN1{
+      color: whitesmoke;
+      font-size: 40px;
+      opacity: 0.1;
+}
+
+.p1 {
+	color: grey;
+	
+}
+.p2 {
+	color:snow ;
+}
+
+
+.k12{
+      color: antiquewhite;
+}
+
+.btn11{
+      font-size: 45px;
+      background-color: silver;
+      color: BLACK;
+      border-radius: 12px;
+}
+
+
+
